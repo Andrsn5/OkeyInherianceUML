@@ -13,3 +13,5 @@ M
 src/CommersialRealEstate.java,a\4\a4a7c4b0fa6a3edf21d0cfef055cb26bdd0c558a
 K
 src/PurchcaseAgreement.java,e\8\e8e0bc2bd4b8514e807d30828ef5c00c669ac2fb
+M
+src/CalculatorRealEstate.java,1\1\11a9b43bff2f616af135e45481efec5e30c0d93d

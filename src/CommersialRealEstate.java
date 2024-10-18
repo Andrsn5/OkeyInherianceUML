@@ -1,7 +1,7 @@
 public class CommersialRealEstate extends RealEstate{
     private String businessType;
-    public CommersialRealEstate(String adress, double area,String businessType) {
-        super(adress, area);
+    public CommersialRealEstate(String adress, double area,double money, String businessType) {
+        super(adress, area,money);
         this.businessType=businessType;
     }
 
