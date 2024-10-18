@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8Û—Û†ª2
+h
+java:S1854"FRemove this useless assignment to local variable "commersialProperty".(ùüÁ¥şÿÿÿÿ8ñ‡İ†ª2
+Y
+java:S1481"7Remove this unused "commersialProperty" local variable.(ùüÁ¥şÿÿÿÿ8ñ‡İ†ª2
+G	java:S106
+"+Replace this use of System.out by a logger.(Ü¨—‚8æ—Û†ª2
+G	java:S106"+Replace this use of System.out by a logger.(¨³Ë8ù‡İ†ª2
+L	java:S106"+Replace this use of System.out by a logger.(•ÑìÖøÿÿÿÿ8ù‡İ†ª2
